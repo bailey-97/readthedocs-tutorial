@@ -2,7 +2,7 @@
 Usage2
 ======
 
-.. _installation:
+.. _this_is_a_label:
 
 edited here
 ------------
