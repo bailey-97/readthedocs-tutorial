@@ -4,7 +4,7 @@ Usage
 
 .. _installation:
 
-edit here
+edited here
 ------------
 
 To use Lumache, first install it using pip:
