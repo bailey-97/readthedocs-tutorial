@@ -1,6 +1,6 @@
 
-Usage
-=====
+Usage2
+======
 
 .. _installation:
 
@@ -9,5 +9,5 @@ edited here
 
 hello
 
-Test
+Test2
 ----------------
