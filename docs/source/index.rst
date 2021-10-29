@@ -51,5 +51,4 @@ Contents
    usage
    api
    test
-   zfs
-   getting-started
+
