@@ -48,7 +48,7 @@ Contents
 
 .. toctree::
 
+   getting-started/index
    45dashboard/index
    ceph/index
    zfs/index
-   getting-started/index
