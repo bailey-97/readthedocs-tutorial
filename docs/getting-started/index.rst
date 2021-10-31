@@ -1,4 +1,4 @@
-Welcome to Baileys documentation testing! - 45getting-started section
+getting-started section
 ======================================================================
 
 Testing out some colums
