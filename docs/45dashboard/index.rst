@@ -1,4 +1,4 @@
-Welcome to Baileys documentation testing! - 45dashboard section
+45dashboard
 ================================================================
 
 Testing out some colums
