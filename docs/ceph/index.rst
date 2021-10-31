@@ -1,4 +1,4 @@
-Welcome to Baileys documentation testing! - 45ceph section
+45ceph section
 ================================================================
 
 Testing out some colums
