@@ -1,33 +1,37 @@
-getting-started section
-======================================================================
+.. _getting-started:
 
-Testing out some colums
+===============
+getting started
+===============
 
-.. container:: columns-3
+Here is how to get started
 
-   .. container:: column
+Getting Started 45d
+^^^^^^^^^^^^^^^^^^^
 
-      .. raw:: html
+.. code:: bash
 
-          <h3>UI</h3>
+    ip a
+    
+.. raw:: html
 
-      - 45d
-      - line2
+   <!---
 
-   .. container:: column
+#Administration
+#^^^^^^^^^^^^^^
 
-      .. raw:: html
+#.. raw:: html
 
-          <h3>UI-2</h3>
+#   --->
 
-      - ZFS storage
-      - Line 2
+#.. toctree:: 
+#   :maxdepth: 1
+#   :hidden:
 
-   .. container:: column
+#    Create a CephFS file system <createfs>
+#    Administrative commands <administration>
 
-      .. raw:: html
 
-          <h3>UI-more</h3>
+#.. raw:: html
 
-      - Cluster
-      - cool stuff
+#   <!---
