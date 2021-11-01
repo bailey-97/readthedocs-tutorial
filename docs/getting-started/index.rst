@@ -17,21 +17,20 @@ Getting Started 45d
 
    <!---
 
-#Administration
-#^^^^^^^^^^^^^^
+networking
+^^^^^^^^^^
 
-#.. raw:: html
+.. raw:: html
 
-#   --->
+   --->
 
-#.. toctree:: 
-#   :maxdepth: 1
-#   :hidden:
+.. toctree:: 
+   :maxdepth: 1
+   :hidden:
 
-#    Create a CephFS file system <createfs>
-#    Administrative commands <administration>
+    Create a CephFS file system <networking>
 
 
-#.. raw:: html
+.. raw:: html
 
-#   <!---
+   <!---
