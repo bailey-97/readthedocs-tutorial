@@ -1,13 +1,15 @@
 .. _getting-started:
 
 ===============
-getting started
+Getting Started
 ===============
 
 Here is how to get started
 
-Getting Started 45d
-^^^^^^^^^^^^^^^^^^^
+Prerequsities
+^^^^^^^^^^^^^
+
+Make sure you unbox it and rack it and cable it and insert the drives into it
 
 .. code:: bash
 
@@ -17,8 +19,8 @@ Getting Started 45d
 
    <!---
 
-networking-setup
-^^^^^^^^^^^^^^^^
+ipmi access
+^^^^^^^^^^^
 
 .. raw:: html
 
@@ -28,7 +30,7 @@ networking-setup
    :maxdepth: 1
    :hidden:
 
-    Create a CephFS file system <networking>
+    Intial Access and Remote Management <ipmi-access>
 
 
 .. raw:: html
