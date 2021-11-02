@@ -36,3 +36,57 @@ ipmi access
 .. raw:: html
 
    <!---
+   
+thing1
+^^^^^^^^^^^
+
+.. raw:: html
+
+   --->
+
+.. toctree:: 
+   :maxdepth: 1
+   :hidden:
+
+    Intial Access and Remote Management <accessing-45dashboard>
+
+
+.. raw:: html
+
+   <!---
+
+thing2
+^^^^^^^^^^^
+
+.. raw:: html
+
+   --->
+
+.. toctree:: 
+   :maxdepth: 1
+   :hidden:
+
+    Intial Access and Remote Management <networking>
+
+
+.. raw:: html
+
+   <!---
+
+thing7
+^^^^^^^^^^^
+
+.. raw:: html
+
+   --->
+
+.. toctree:: 
+   :maxdepth: 1
+   :hidden:
+
+    Intial Access and Remote Management <initial-setup>
+
+
+.. raw:: html
+
+   <!---
