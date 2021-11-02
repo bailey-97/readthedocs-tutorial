@@ -1,5 +1,3 @@
-.. _getting-started:
-
 ===============
 Getting Started
 ===============
@@ -19,7 +17,7 @@ Make sure you unbox it and rack it and cable it and insert the drives into it
 
    <!---
 
-ipmi access
+IPMI access
 ^^^^^^^^^^^
 
 .. raw:: html
